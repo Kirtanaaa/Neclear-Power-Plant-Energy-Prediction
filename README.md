@@ -6,27 +6,37 @@ This project aims to predict the energy output of a nuclear power plant using va
 ## Regression Techniques Used
 
 1. Multiple Linear Regression Model:
+   
    R-squared (R2) Score: 0.932
+   
    Description: Multiple Linear Regression is used to model the relationship between the energy output and multiple independent
    variables. It provides a linear equation that predicts the energy output based on the feature values.
 
-2. Polynomial Regression Model:
+3. Polynomial Regression Model:
+   
    R-squared (R2) Score: 0.945
+   
    Description: Polynomial Regression extends the linear regression model by adding polynomial terms to capture non-linear relationships
    between the features and energy output. It provides a more flexible curve to fit the data.
 
-3. Support Vector Regression (SVR) Model:
+5. Support Vector Regression (SVR) Model:
+   
    R-squared (R2) Score: 0.941
+   
    Description: SVR is a non-linear regression technique that uses support vectors to approximate the energy output function. It can
    handle non-linear relationships and is effective in capturing complex patterns.
    
-4. Decision Tree Model:
+7. Decision Tree Model:
+   
    R-squared (R2) Score: 0.921
+   
    Description: Decision Trees create a tree-like structure to make predictions based on the feature values. It is capable of handling
    both numerical and categorical features and provides interpretable results.
 
-5. Random Forest Model:
+9. Random Forest Model:
+    
    R-squared (R2) Score: 0.960
+   
    Description: Random Forest is an ensemble method that combines multiple decision trees to make predictions. It reduces overfitting
    and provides more accurate and robust results.
 
