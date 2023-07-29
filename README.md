@@ -3,6 +3,18 @@
 
 This project aims to predict the energy output of a nuclear power plant using various regression techniques. The dataset contains relevant features, and the goal is to build regression models to accurately predict the energy output based on these features.
 
+## Attributes present in dataset:
+
+ 1. Ambient Temperature
+
+ 2. Exhaust Vacuum
+
+ 3. Ambient Pressure
+
+ 4. Relative Humidity
+
+ 5. Electrical Energy Output
+
 ## Regression Techniques Used
 
 1. Multiple Linear Regression Model:
