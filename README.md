@@ -1,2 +1,2 @@
-# Neclear-Power-Plant-Energy-Prediction
+# Nuclear-Power-Plant-Energy-Prediction
  NUCLEAR POWER PLANT ENERGY PREDICTION ANALYSIS USING REGRESSION TECHNIQUES
